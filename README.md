@@ -1,7 +1,7 @@
 ![MasterHead](https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg)
 <h1 align="center">Hi 👋, I'm a1bx</h1>
 <h3 align="center"> Passionate developer</h3>
-<img align="right" alt="Coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg">
+<img align="right" alt="Coding" width="100" src="https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
