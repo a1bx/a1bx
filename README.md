@@ -1,7 +1,7 @@
-![MasterHead](https://www.wallpaperflare.com/programmer-wallpaper-urswi)](https://github.com/a1bx)
+![MasterHead](https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg)
 <h1 align="center">Hi 👋, I'm a1bx</h1>
-<img align="right" alt="Coding" width="400" src="https://www.wallpaperflare.com/programmer-wallpaper-urswi")
 <h3 align="center"> Passionate developer</h3>
+<img align="right" alt="Coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
