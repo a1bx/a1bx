@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wallpaperflare.com/programmer-wallpaper-urswi)](https://github.com/a1bx)
+![MasterHead](https://www.wallpaperflare.com/programmer-wallpaper-urswi)](https://github.com/a1bx)
 <h1 align="center">Hi 👋, I'm a1bx</h1>
 <img align="right" alt="Coding" width="400" src="https://www.wallpaperflare.com/programmer-wallpaper-urswi")
 <h3 align="center"> Passionate developer</h3>
