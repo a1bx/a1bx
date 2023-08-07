@@ -1,6 +1,6 @@
 ![MasterHead](https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg)
 <h1 align="center">Hi 👋, I'm jeremih</h1>
-<h3 align="center"> Passionate developer</h3>
+<h3 align="center"> Developer</h3>
 <img align="right" alt="Coding" width="100" src="https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg">
 
 <h3 align="left">Connect with me:</h3>
