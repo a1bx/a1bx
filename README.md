@@ -1,5 +1,5 @@
 ![MasterHead](https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg)
-<h1 align="center">Hello there</h1>
+<h1 align="center">Hello</h1>
 <h3 align="center">Frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
