@@ -8,9 +8,6 @@
   <strong>A passionate Mobile &amp; Frontend Developer</strong>
 </p>
 
-<p align="center">
-  <img src="https://lottie.host/3a44b7fd-38d7-4de5-bdef-3f2d146a1691/Kr6r8oeqtc.json" alt="Animated Avatar" height="200" />
-</p>
 
 ---
 
