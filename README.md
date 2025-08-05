@@ -4,6 +4,7 @@
   <span style="font-size: 40px;"><strong>Hi there, I'm Jeremiah 👋</strong></span><br />
   <span style="font-size: 22px;">A passionate Mobile & Frontend Developer</span>
 </p>
+
 ---
 
 ### 🌐 Connect with me:
