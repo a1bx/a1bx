@@ -8,6 +8,10 @@
   <strong>A passionate Mobile &amp; Frontend Developer</strong>
 </p>
 
+<p align="center">
+  <img src="https://lottie.host/3a44b7fd-38d7-4de5-bdef-3f2d146a1691/Kr6r8oeqtc.json" alt="Animated Avatar" height="200" />
+</p>
+
 ---
 
 ### 🌐 Connect with me:
@@ -26,14 +30,14 @@
 ## 🧠 Skills
 
 ### 📱 Mobile Development
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 ### 🌐 Web Development
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -41,13 +45,13 @@
 </p>
 
 ### 🎨 Frontend Frameworks
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 ### 🖥 Backend & Databases
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -56,42 +60,28 @@
 </p>
 
 ### 🛠 Tools & Other Languages
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Most Used Languages (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a1bx&theme=darkhub&no-bg=true&no-frame=true&row=1&column=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a1bx&layout=pie&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a1bx&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=a1bx&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1bx&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</div>
-
 ---
 
-## 🌱 Recent Contributions
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=a1bx&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
