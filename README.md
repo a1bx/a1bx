@@ -1,15 +1,9 @@
 ![MasterHead](https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Jeremiah+%F0%9F%91%8B" alt="Typing SVG" />
+<p align="center" style="font-family: 'Fira Code', monospace;">
+  <span style="font-size: 40px;"><strong>Hi there, I'm Jeremiah 👋</strong></span><br />
+  <span style="font-size: 22px;">A passionate Mobile & Frontend Developer</span>
 </p>
-
-<p align="center">
-  <strong style="font-family: 'Fira Code', monospace; font-size: 40px;">
-    A passionate Mobile & Frontend Developer
-  </strong>
-</p>
-
 ---
 
 ### 🌐 Connect with me:
