@@ -5,21 +5,24 @@
 </p>
 
 <p align="center">
-  <strong><span style="font-family: 'Fira Code', monospace; font-size: 20px;">A passionate Mobile & Frontend Developer</span></strong>
+  <strong style="font-family: 'Fira Code', monospace; font-size: 40px;">
+    A passionate Mobile & Frontend Developer
+  </strong>
 </p>
-
-
 
 ---
 
 ### 🌐 Connect with me:
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/a1bx23" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jeremiah-nyok-140981240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://a1bx.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23ffffff.svg?&style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
 
@@ -65,39 +68,17 @@
 
 ---
 
-## 📊 Most Used Technologies
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1bx&layout=pie&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a1bx&layout=pie&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a1bx&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=a1bx&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-  <a href="https://github.com/a1bx/flutter-chat-app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1bx&repo=flutter-chat-app&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/a1bx/nextjs-portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1bx&repo=nextjs-portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-
 </div>
-
----
-
-<p align="center">
-  <i>“Building intuitive mobile & web experiences — one pixel at a time.”</i>
-</p>
