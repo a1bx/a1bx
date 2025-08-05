@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/jeremiah-nyok-140981240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://a1bx.vercel.app" target="_blank">
+  <a href="https://my-portfolio-z4kn.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23ffffff.svg?&style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
