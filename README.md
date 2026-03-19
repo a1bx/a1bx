@@ -1,8 +1,8 @@
 ![MasterHead](https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg)
 
 <p align="center" style="font-family: 'Fira Code', monospace;">
-  <span style="font-size: 40px;"><strong>Hi there, I'm Jeremiah 👋</strong></span><br />
-  <span style="font-size: 22px;">A passionate Mobile & Frontend Developer</span>
+  <span style="font-size: 40px;"><strong>Hello 👋</strong></span><br />
+  <!-- <span style="font-size: 22px;">A passionate Mobile & Frontend Developer</span> -->
 </p>
 
 ---
