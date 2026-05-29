@@ -65,17 +65,16 @@
 
 ## 📊 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a1bx&layout=pie&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=a1bx&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
-## 🏆 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=a1bx&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a1bx&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=a1bx&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+---
+
+![](https://streak-stats.demolab.com/?user=a1bx&theme=gotham&hide_border=true)<br/>
+
 
 
